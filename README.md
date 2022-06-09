@@ -9,3 +9,4 @@ O java foi ultilizado na barra.
 <br>
 <br>
 OBS: O código aparenta estar certo e funcinando nas plataformas, mas aparentemente o github só está lançando uma página em branco no ar, infelizmente não consegui resolver.
+Segue link do replit funcionando: https://projeto.hiaghenker.repl.co
